@@ -34,6 +34,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Приложению необходим доступ к Вашему местоположению</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>qweqwe</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Always123</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
